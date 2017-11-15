@@ -1,0 +1,8 @@
+test	time
+welcome	13348.6966401
+Keyboard	15491.6064012
+Screem	16089.5284117
+Mouse	None
+Sound	23319.8055972
+Time	34260.9767729
+ending	43289.2870297

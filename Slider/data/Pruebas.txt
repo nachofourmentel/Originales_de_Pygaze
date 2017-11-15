@@ -1,0 +1,3 @@
+NumeroDePrueba	Imagen	TiempoDeImagen
+0	sunset.jpg	5016.776107
+1	vanunnik.jpg	5017.58954615
